@@ -1,16 +1,54 @@
-## Hi there 👋
+## Hi, I'm Mohammed Abdul Hameed 👋
 
-<!--
-**abdham30/abdham30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student
 
-Here are some ideas to get you started:
+💻 Passionate about Software Development,Networking, Cybersecurity, and Cloud Technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical applications, learning new technologies, and working on projects that solve realworld problems.
+
+---
+
+## 🚀 Currently Working On
+
+- Exploring cloud and networking concepts
+- Improving my Full-Stack Development skills
+- Learning Java and Backend Development
+- Building cybersecurity and web development projects
+
+---
+
+## 🛠️ Languages & Tools
+
+### Languages
+- C
+- Python
+- Java
+- JavaScript
+- HTML
+- CSS
+
+### Frameworks & Technologies
+- React
+- Express.js
+- Node.js
+- Vite
+- Git
+- GitHub
+
+### Areas of Interest
+- Networking
+- Cybersecurity
+- Cloud Computing
+
+---
+
+## 📫 Reach Me
+
+💼 LinkedIn:
+www.linkedin.com/in/mohammed-abdul-hameed-ba4a01349
+
+---
+
+## 📈 Current Goal
+
+To become a skilled engineer with strong foundations in networking, development, cybersecurity, and cloud technologies while building impactful projects and gaining industry experience.
